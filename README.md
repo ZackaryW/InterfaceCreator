@@ -15,4 +15,5 @@ common usage
 ```
 infCreate ./source.py ./target.py
 ```
-
+## Options
+![image](https://user-images.githubusercontent.com/36378555/200637147-a9940c11-2f2c-4722-93ea-a9be5f390a73.png)
